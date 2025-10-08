@@ -1,0 +1,17 @@
+body{
+    background-color: paleturquoise;
+    font-family: Candara;
+    margin: 10px;
+}
+table{
+    background-color: cornsilk;
+    text-align: center;
+    border: 2px solid black;
+    padding: 100px;
+    width: 80%;
+    border-collapse: collapse;
+    margin:0 auto;
+}
+th,td{
+    border: solid 1px royalblue;
+}
