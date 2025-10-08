@@ -1,0 +1,18 @@
+
+        h1{
+            color:brown
+        }
+        p{
+            color: lightcoral;
+        }
+        #parrafo2{
+            color: crimson;
+        }
+        #parrafo4{
+            color: rgb(122, 52, 26);
+        }
+        .subtitulo{
+            color: cadetblue;
+            background: bisque;
+        }
+ 
